@@ -17,45 +17,46 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Stevie",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
-    //Line 2 For Header
-    "products, brands,",
-    //Line 3 For Header
-    "and experience",
+    "Software Engineer",
+    // //Line 2 For Header
+    // "products, brands,",
+    // //Line 3 For Header
+    // "and experience",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "Bringing my photography and art skills to coding. I care about good design, inclusion and representation for all in tech.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "steviemilitello@gmail.com",
 
   // End Header Details -----------------------
 
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "TTRPG Tracker", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "A full CRUD Application that allows a user to keep track of their tabletop RPG book collection. Uses MongoDB/Mongoose, Express, Liquid & Node.js", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.imgur.com/w8yyQQY.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://ttrpgtracker.herokuapp.com/",
+      codeUrl: "https://github.com/steviemilitello/ttrpg-tracker"
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "Ghostbustr", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "A full CRUD travel app with an API and Client that allows a user to view haunted locales, create their own locales and add visits to the locales. Uses MongoDB/Mongoose, Express, React & Node.js", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.imgur.com/2Es1SQS.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://go-ghostbustr-app.herokuapp.com/",
     },
     {
       title: "Project Three", //Project Title - Add Your Project Title Here

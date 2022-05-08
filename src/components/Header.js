@@ -10,9 +10,9 @@ const Header = () => {
           <Fade bottom>
             <h2>
               Hi, I'm {data.name}{" "}
-              <span role="img" aria-label="Emoji">
+              {/* <span role="img" aria-label="Emoji">
                 👋
-              </span>
+              </span> */}
             </h2>
           </Fade>
           <Fade bottom cascade>
@@ -26,13 +26,13 @@ const Header = () => {
                 {" "}
                 {data.headerTagline[1]
                   ? data.headerTagline[1]
-                  : "products, brands"}
+                  : ""}
               </h1>
               <h1>
                 {" "}
                 {data.headerTagline[2]
                   ? data.headerTagline[2]
-                  : "and experience"}
+                  : ""}
               </h1>
             </div>
           </Fade>
