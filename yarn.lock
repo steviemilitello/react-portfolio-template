@@ -3521,6 +3521,14 @@
   "resolved" "https://registry.npmjs.org/cli-width/-/cli-width-3.0.0.tgz"
   "version" "3.0.0"
 
+"cli@^1.0.1":
+  "integrity" "sha1-IoF1NPJL+klQw01TLUjsvGIbjBQ="
+  "resolved" "https://registry.npmjs.org/cli/-/cli-1.0.1.tgz"
+  "version" "1.0.1"
+  dependencies:
+    "exit" "0.1.2"
+    "glob" "^7.1.1"
+
 "clipboardy@^2.3.0":
   "integrity" "sha512-mKhiIL2DrQIsuXMgBgnfEHOZOryC7kY7YO//TN6c63wlEm3NG5tz+YgY5rVi29KCmq/QQjKYvM7a19+MDOTHOQ=="
   "resolved" "https://registry.npmjs.org/clipboardy/-/clipboardy-2.3.0.tgz"
@@ -5079,6 +5087,11 @@
   "integrity" "sha1-WKnS1ywCwfbwKg70qRZicrd2CSI="
   "resolved" "https://registry.npmjs.org/exif-parser/-/exif-parser-0.1.12.tgz"
   "version" "0.1.12"
+
+"exit@0.1.2":
+  "integrity" "sha1-BjJjj42HfMghB9MKD/8aF8uhzQw="
+  "resolved" "https://registry.npmjs.org/exit/-/exit-0.1.2.tgz"
+  "version" "0.1.2"
 
 "expand-brackets@^2.1.4":
   "integrity" "sha1-t3c14xXOMPa27/D4OwQVGiJEliI="
