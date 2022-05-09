@@ -66,7 +66,7 @@ export default {
     {
       title: "Ghostbustr", //Project Title - Add Your Project Title Here
       para:
-        "A full CRUD app with an API and Client made in with a team of 4 that allows a user to view haunted locales, create their own locales and add visits to the locales. Uses MongoDB/Mongoose, Express, React & Node.js. Styled with Bootstrap.", // Add Your Service Type Here
+        "A full CRUD app with an API and Client made with a team of 4 that allows a user to view haunted locales, create their own locales and add visits to the locales. Uses MongoDB/Mongoose, Express, React & Node.js. Styled with Bootstrap.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://i.imgur.com/2Es1SQS.png",
