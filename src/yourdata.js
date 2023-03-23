@@ -32,7 +32,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Bringing my photography and art skills to coding. I care about good design, inclusion and representation for all in tech.",
+    "Based near Boston, MA. Bringing my photography and art skills to coding.",
 
   //Contact Email
   contactEmail: "steviemilitello@gmail.com",
