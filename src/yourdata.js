@@ -21,7 +21,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "Stevie (she/her)",
+  name: "Stevie",
   headerTagline: [
     //Line 1 For Header
     "Software Engineer",
@@ -100,7 +100,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Pivoting to Software Engineering after over 10 years of working in Non-Profits.",
+    "Pivoting to Software Engineering after over 4 years of working in Non-Profits.",
   aboutParaTwo:
     "I am a creative with a background in Art, Photography and Film who is passionate about bringing good design, diversity and inclusivity to the Software Engineering world. I believe everyone should have access to websites & apps, and representation for all types of people in the tech world.",
   aboutParaThree:
